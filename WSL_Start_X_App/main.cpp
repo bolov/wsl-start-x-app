@@ -37,4 +37,6 @@ int wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PWSTR lpCmdLine, int 
 
     CloseHandle(pi.hProcess);
     CloseHandle(pi.hThread);
+
+    return 0;
 }

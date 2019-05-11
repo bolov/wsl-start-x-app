@@ -17,4 +17,7 @@
   <ItemGroup>
     <ResourceCompile Include="WSL_Start_X_App.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="MAINICON.ico" />
+  </ItemGroup>
 </Project>
